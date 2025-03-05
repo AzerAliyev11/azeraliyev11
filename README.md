@@ -2,8 +2,8 @@
 
 ![GitHub Banner](https://your-image-url.com/banner.png) <!-- Replace with your actual banner URL -->
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
-[![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)](https://github.com/your-username?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/azeraliyev11?label=Followers&style=social)](https://github.com/azeraliyev11)
+[![GitHub stars](https://img.shields.io/github/stars/azeraliyev11?affiliations=OWNER&style=social)](https://github.com/azeraliyev11?tab=repositories)
 
 ## 🌟 About Me
 
@@ -19,8 +19,8 @@ Hi there! I'm **[Your Name]**, a passionate developer with expertise in **game d
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeraliyev11&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeraliyev11&layout=compact&theme=dark)
 
 ## 🎮 Fun Projects
 
@@ -30,8 +30,8 @@ Hi there! I'm **[Your Name]**, a passionate developer with expertise in **game d
 
 ## 💬 Let's Connect!
 
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [Your GitHub Profile](https://github.com/azeraliyev11)
+- **Email**: azarraliyev@gmail.com
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
 
