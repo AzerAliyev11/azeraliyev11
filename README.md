@@ -1,6 +1,4 @@
 # Welcome to My GitHub Profile! 🚀
-
-![GitHub Banner](https://your-image-url.com/banner.png) <!-- Replace with your actual banner URL -->
 ![Header](./github-header-image.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/azeraliyev11?label=Followers&style=social)](https://github.com/azeraliyev11)
@@ -8,11 +6,11 @@
 
 ## 🌟 About Me
 
-Hi there! I'm **[Your Name]**, a passionate developer with expertise in **game development, algorithms, and performance optimization**. I love solving complex problems and building scalable applications. 
+A passionate developer with expertise in **game development, algorithms, and performance optimization**. I love solving complex problems and building scalable applications. 
 
 ## 🛠 Skills & Technologies
 
-- 🔹 **Languages**: C, C++, C#, Swift, Python
+- 🔹 **Languages**: C, C++, C#, Swift
 - 🔹 **Game Engines**: Unity, Unreal Engine
 - 🔹 **Technologies**: FFmpeg, OpenGL, DirectX
 - 🔹 **Data Structures & Algorithms**: Advanced DSA, Optimization Techniques
@@ -20,21 +18,16 @@ Hi there! I'm **[Your Name]**, a passionate developer with expertise in **game d
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeraliyev11&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeraliyev11&layout=compact&theme=dark)
+<a href="http://www.github.com/azeraliyev11"><img src="https://github-readme-stats.vercel.app/api?username=azeraliyev11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FaridAliyev's GitHub stats" /></a>
 
-## 🎮 Fun Projects
+<a href="http://www.github.com/azeraliyev11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azeraliyev11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- 🕹 **Sun Position Simulator** - A Unity-based solar position simulator
-- 🛠 **Custom Unity Plugin for Screen Recording** - Uses FFmpeg for high-performance multi-display recording
-- 🔢 **Data Structures & Algorithm Masterclass** - Teaching DSA with real-world applications
+<a href="https://github.com/azeraliyev11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeraliyev11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 💬 Let's Connect!
 
-- **GitHub**: [Your GitHub Profile](https://github.com/azeraliyev11)
 - **Email**: azarraliyev@gmail.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/azar-aliyev/)
 
 ---
 
