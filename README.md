@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 🚀
 
 ![GitHub Banner](https://your-image-url.com/banner.png) <!-- Replace with your actual banner URL -->
+![Header](./your-header-image-name.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/azeraliyev11?label=Followers&style=social)](https://github.com/azeraliyev11)
 [![GitHub stars](https://img.shields.io/github/stars/azeraliyev11?affiliations=OWNER&style=social)](https://github.com/azeraliyev11?tab=repositories)
