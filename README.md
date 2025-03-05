@@ -1,16 +1,40 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 🚀
 
-<!--
-**AzerAliyev11/azeraliyev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Banner](https://your-image-url.com/banner.png) <!-- Replace with your actual banner URL -->
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
+[![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social)](https://github.com/your-username?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+Hi there! I'm **[Your Name]**, a passionate developer with expertise in **game development, algorithms, and performance optimization**. I love solving complex problems and building scalable applications. 
+
+## 🛠 Skills & Technologies
+
+- 🔹 **Languages**: C, C++, C#, Swift, Python
+- 🔹 **Game Engines**: Unity, Unreal Engine
+- 🔹 **Technologies**: FFmpeg, OpenGL, DirectX
+- 🔹 **Data Structures & Algorithms**: Advanced DSA, Optimization Techniques
+- 🔹 **Other**: Multi-threading, Plugin Development, Performance Tuning
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+## 🎮 Fun Projects
+
+- 🕹 **Sun Position Simulator** - A Unity-based solar position simulator
+- 🛠 **Custom Unity Plugin for Screen Recording** - Uses FFmpeg for high-performance multi-display recording
+- 🔢 **Data Structures & Algorithm Masterclass** - Teaching DSA with real-world applications
+
+## 💬 Let's Connect!
+
+- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: your-email@example.com
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+⭐ If you find my work interesting, consider giving a star!
