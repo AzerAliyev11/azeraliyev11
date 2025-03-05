@@ -26,7 +26,7 @@ A passionate developer with expertise in **game development, algorithms, and per
 
 ## 💬 Let's Connect!
 
-- **Email**: [My Email]azarraliyev@gmail.com
+- **Email**: [My Email](azarraliyev@gmail.com)
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/azar-aliyev/)
 
 ---
